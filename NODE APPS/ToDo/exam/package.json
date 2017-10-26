@@ -1,0 +1,19 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "\"express for the exam folder\"",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barczyn4/todo.git"
+  },
+  "author": "Cody Barczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barczyn4/todo/issues"
+  },
+  "homepage": "https://github.com/Barczyn4/todo#readme"
+}
