@@ -1,14 +1,20 @@
 var express = require('express'),
-  router = express.Router(),
-  logger = require('../../config/logger');
-mongoose = require('mongoose');
-User = mongoose.model('User')
+    router = express.Router(),
+    logger = require('../../config/logger');
+    mongoose = require('mongoose');
+    User = mongoose.model('User'),
+    passportService = require('../../config/passport'),
+    passport = require('passport')
+    var requireLogin = passport.authenticate('local', { session: false });
+    var requireAuth = passport.authenticate('jwt', {session:false});
+
 
 module.exports = function(app, config) {
     
     app.use('/api', router);
     
     
+    router.route('/users/login').post(requireLogin, login);
     
     router.route('/users').post(function(req, res, next){
     
@@ -59,6 +65,29 @@ module.exports = function(app, config) {
     });
     
     
+    router.put('/users/password/:userId', function(req, res, next){
+        logger.log('Update user ' + req.params.userId, 'verbose');
+    
+        User.findById(req.params.userId)
+            .exec()
+            .then(function (user) {
+                if (req.body.password !== undefined) {
+                    user.password = req.body.password;
+                }
+    
+                user.save()
+                    .then(function (user) {
+                        res.status(200).json(user);
+                    })
+                    .catch(function (err) {
+                        return next(err);
+                    });
+            })
+            .catch(function (err) {
+                return next(err);
+            });
+    });
+
     
     router.route('/users/:userId').get(function(req, res, next){
     
