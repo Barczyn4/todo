@@ -38,9 +38,9 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr class="${todo.priority === 'Critical' ? 'table-secondary' : ' '} " repeat.for="todo of todos.todosArray | completed:showCompleted"></tr>
+				<tr class="${todo.priority === 'Critical' ? 'table-secondary' : ' '} " repeat.for="todo of todos.todosArray | completed:showCompleted">
 					<th>${todo.todo}</th>
-					<td>${todo.dateDue | dateFormat}}</td>
+					<td>${todo.dateDue | dateFormat}</td>
 					<td>${todo.priority}</td>
 					<td><a href="http://localhost:5000/uploads/${user._id}/${todo.file.filename}" 	target="_blank">${todo.file.originalName}</a></td>					
 					<td>

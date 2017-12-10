@@ -1,3 +1,8 @@
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-05T00:02:23.926Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-05T00:05:18.489Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-05T00:13:51.277Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-05T00:36:17.994Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-05T00:36:18.064Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-05T00:36:18.159Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-05T00:36:18.656Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-05T00:36:18.747Z"}

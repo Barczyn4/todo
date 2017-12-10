@@ -1,0 +1,124 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:25:23.927Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:25:24.038Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:25:24.983Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:25:34.723Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:25:34.918Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:27:22.308Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-10T19:33:17.294Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-10T19:33:50.204Z"}
+{"level":"verbose","message":"Upload file for todo 5a2d8c1eb360c71f74af9519 and 5a1f68a3480d1a1e6c4e67e2","timestamp":"2017-12-10T19:33:50.340Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:36:04.101Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T19:36:18.927Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-10T19:36:55.872Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-10T19:37:18.983Z"}
+{"level":"verbose","message":"Upload file for todo 5a2d8ceeb360c71f74af951b and 5a1f68a3480d1a1e6c4e67e2","timestamp":"2017-12-10T19:37:19.084Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:39:31.994Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:40:27.236Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-10T19:40:43.256Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:41:02.953Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:42:06.833Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:42:06.902Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:42:07.014Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:42:07.500Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:42:07.581Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:42:07.743Z"}
+{"level":"error","message":"Error: Unknown authentication strategy \"jwt\"\n    at attempt (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:186:37)\n    at authenticate (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:362:7)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-10T19:44:36.047Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:47:10.105Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:47:10.163Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:47:10.234Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:47:10.728Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:47:10.802Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:47:25.442Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:47:25.507Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:47:25.604Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:47:26.202Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:47:26.297Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T19:49:10.670Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:49:22.761Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:50:20.875Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:50:22.691Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:50:34.413Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:50:56.275Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:52:01.275Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:52:01.352Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:52:01.440Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:52:01.926Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:52:02.027Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:53:25.838Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:53:25.900Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:53:25.979Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:53:26.748Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:53:26.857Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:56:00.571Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:56:00.625Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:56:00.720Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:56:01.203Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:56:01.290Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-10T19:56:03.928Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:56:32.221Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:56:32.292Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:56:32.367Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:56:32.814Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:56:32.914Z"}
+{"level":"verbose","message":"Update todos 5a289d821b5c8605cc352d87","timestamp":"2017-12-10T19:56:47.835Z"}
+{"level":"verbose","message":"Update todos 5a289d821b5c8605cc352d87","timestamp":"2017-12-10T19:57:21.468Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T19:57:54.131Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T19:57:54.197Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T19:57:54.284Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T19:57:54.778Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T19:57:54.865Z"}
+{"level":"verbose","message":"Update todos 5a289f0b1b5c8605cc352d89","timestamp":"2017-12-10T19:57:57.171Z"}
+{"level":"verbose","message":"Update todos 5a289d821b5c8605cc352d87","timestamp":"2017-12-10T19:58:03.696Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T20:00:15.411Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T20:00:15.476Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T20:00:15.559Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T20:00:16.039Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T20:00:16.125Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T20:00:26.213Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-10T20:00:26.274Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-10T20:00:26.342Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T20:00:26.710Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T20:00:26.791Z"}
+{"level":"verbose","message":"Update todos 5a289f0b1b5c8605cc352d89","timestamp":"2017-12-10T20:00:28.934Z"}
+{"level":"verbose","message":"Upload file for todo undefined and 5a1f68a3480d1a1e6c4e67e2","timestamp":"2017-12-10T20:00:35.904Z"}
+{"level":"error","message":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"ToDos\"\n    at MongooseError.CastError (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\cast.js:27:11)\n    at ObjectId.cast (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:158:13)\n    at ObjectId.SchemaType._castForQuery (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:1083:15)\n    at ObjectId.castForQuery (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:198:15)\n    at ObjectId.SchemaType.castForQueryWrapper (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:1040:15)\n    at cast (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\cast.js:269:32)\n    at Query.cast (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\query.js:3204:12)\n    at Query._castConditions (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\query.js:1203:10)\n    at Query._findOne (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\mongoose\\lib\\query.js:1410:8)\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\kareem\\index.js:250:8\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\kareem\\index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","timestamp":"2017-12-10T20:00:35.963Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:00:38.206Z"}
+{"level":"verbose","message":"Update todos 5a289a201b5c8605cc352d81","timestamp":"2017-12-10T20:00:45.831Z"}
+{"level":"verbose","message":"Upload file for todo 5a289a201b5c8605cc352d81 and 5a1f68a3480d1a1e6c4e67e2","timestamp":"2017-12-10T20:00:51.177Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:01:03.596Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:02:42.818Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:02:56.379Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:14:09.275Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:14:36.158Z"}
+{"level":"verbose","message":"Update todos 5a2899f01b5c8605cc352d80","timestamp":"2017-12-10T20:15:34.412Z"}
+{"level":"verbose","message":"Update todos 5a289a201b5c8605cc352d81","timestamp":"2017-12-10T20:15:39.024Z"}
+{"level":"verbose","message":"Update todos 5a289a201b5c8605cc352d81","timestamp":"2017-12-10T20:15:40.406Z"}
+{"level":"verbose","message":"Update todos 5a2899f01b5c8605cc352d80","timestamp":"2017-12-10T20:15:41.288Z"}
+{"level":"verbose","message":"Update todos 5a2899f01b5c8605cc352d80","timestamp":"2017-12-10T20:15:45.343Z"}
+{"level":"verbose","message":"Update todos 5a289a201b5c8605cc352d81","timestamp":"2017-12-10T20:15:46.695Z"}
+{"level":"verbose","message":"Update todos 5a289c8f1b5c8605cc352d83","timestamp":"2017-12-10T20:15:47.400Z"}
+{"level":"verbose","message":"Update todos 5a2899f01b5c8605cc352d80","timestamp":"2017-12-10T20:15:54.262Z"}
+{"level":"verbose","message":"Update todos 5a289a201b5c8605cc352d81","timestamp":"2017-12-10T20:15:54.997Z"}
+{"level":"verbose","message":"Update todos 5a289c8f1b5c8605cc352d83","timestamp":"2017-12-10T20:15:55.571Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:23:30.809Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:36.601Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:44.514Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:45.229Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:45.819Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:46.627Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:48.100Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:48.739Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:49.101Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:49.460Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:50.092Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:50.922Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:51.298Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:51.892Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:52.247Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:52.539Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:52.810Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:53.161Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:54.475Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:55.458Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-10T20:24:56.836Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-10T20:25:00.137Z"}

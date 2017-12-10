@@ -14,7 +14,7 @@ export class List {
     this.message = 'List';
     this.user = JSON.parse(sessionStorage.getItem('user'));
     this.showList = true;
-    this.priorities = ['low', 'medium', 'high', 'critical']
+    this.priorities = ['Low', 'Medium', 'High', 'Critical']
     this.showCompleted = false;
   }
 
@@ -42,6 +42,7 @@ export class List {
 
 
   async activate() {
+    console.log(this.todos) 
     await this.todos.getUserTodo(this.user._id);
   }
 
@@ -51,7 +52,7 @@ export class List {
       todo: "",
       description: "",
       dateDue: new Date(),
-      userId: this.user._id,
+      user: this.user._id,
       priority: this.priorities[0]
     }
     this.showList = false;
@@ -97,6 +98,10 @@ export class List {
     this.auth.logout();
 
 
+  }
+  
+  back(){
+    this.showList = true;
   }
 
 }

@@ -11,7 +11,7 @@ export class ToDos {
         this.todosArray = [];
     }
 
-    async getUserTodos(id) {
+    async getUserTodo(id) {
         let response = await this.data.get(this.TODO_SERVICE + "/user/" + id);
         if (!response.error && !response.message) {
             this.todosArray = response;
@@ -36,7 +36,7 @@ export class ToDos {
                 }
                 return serverResponse;
               } else {
-                let response = await this.data.put(todo, this.TODO_SERVICE );
+                let response = await this.data.put(todo, this.TODO_SERVICE + "/" + todo._id );
                 if (!response.error) {
                     // this.updateArray(response);
                 }
