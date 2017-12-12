@@ -24,3 +24,54 @@
 {"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:47.804Z"}
 {"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:49.780Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T00:06:01.005Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T20:05:03.107Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-12T20:05:03.192Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-12T20:05:03.310Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T20:05:04.122Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T20:05:25.738Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-12T20:05:25.809Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-12T20:05:25.890Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T20:05:26.367Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T20:05:26.587Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T20:06:50.952Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:11.231Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:22.302Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:23.322Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:23.726Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:24.178Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:24.643Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:25.106Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:25.601Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:25.974Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:26.222Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:26.419Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:26.618Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:26.830Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:27.033Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:27.235Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:27.448Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:27.649Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:29.115Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:30.763Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:07:31.798Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T20:08:05.323Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:19.727Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:21.311Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:22.672Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:23.094Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:23.471Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:23.954Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:24.689Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:24.974Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:25.239Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:25.500Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:25.729Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:26.011Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:26.335Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:26.897Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:27.205Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:27.404Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:27.749Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:29.760Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:30.786Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T20:08:32.008Z"}

@@ -1,0 +1,46 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T19:26:39.095Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T19:26:39.233Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T19:26:43.006Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T19:26:59.021Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T19:26:59.560Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-03T19:30:11.184Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T19:30:30.077Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T19:39:40.448Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T19:42:36.361Z"}
+{"level":"verbose","message":"Upload file for todo undefined and 5a2450c3970ee61ed00274a7","timestamp":"2017-12-03T19:48:45.473Z"}
+{"level":"error","message":"ReferenceError: Todo is not defined\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\app\\controllers\\todos.js:98:13\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Immediate.<anonymous> (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\multer\\lib\\make-middleware.js:53:37)\n    at runCallback (timers.js:676:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)","timestamp":"2017-12-03T19:48:45.478Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T19:53:35.430Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T19:54:19.731Z"}
+{"level":"verbose","message":"Get all uses","timestamp":"2017-12-03T19:59:09.369Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:06:57.248Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:08:28.274Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:10:38.137Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:12:22.372Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:12:22.439Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:12:22.522Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:12:23.914Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T20:12:24.012Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:12:26.283Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:12:50.942Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:38:55.159Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:38:55.207Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:38:55.271Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:38:55.615Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:39:18.903Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:39:18.968Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:39:19.052Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:39:19.529Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:40:00.184Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:40:00.245Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:40:00.317Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:40:00.747Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T20:40:00.842Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:40:17.334Z"}
+{"level":"error","message":"Error: Unknown authentication strategy \"jwt\"\n    at attempt (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:186:37)\n    at authenticate (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:362:7)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (c:\\Users\\Cody\\Fall 2017\\Bus Adm 531\\NODE APPS\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-03T20:41:37.563Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:41:46.835Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:46:09.053Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:46:09.110Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:46:09.190Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:46:09.617Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T20:46:09.698Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-03T20:46:15.927Z"}
