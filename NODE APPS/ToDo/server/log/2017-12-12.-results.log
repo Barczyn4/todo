@@ -1,0 +1,26 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T00:01:10.875Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-12T00:01:10.939Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-12T00:01:11.013Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T00:01:11.472Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T00:01:11.587Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T00:05:20.495Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:28.064Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:31.660Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:32.669Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:34.628Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:35.260Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:36.389Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:37.036Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:37.940Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:38.444Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:39.044Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:39.450Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:39.845Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:40.220Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:41.812Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:42.020Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:42.195Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:45.374Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:47.804Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-12T00:05:49.780Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T00:06:01.005Z"}
